@@ -1,0 +1,3 @@
+[submodule "domainapp"]
+	path = domainapp
+	url = https://github.com/ducmle/domainapp.git
